@@ -45,12 +45,12 @@ iframe {
     height: 200px;
     width:auto;
     margin-left: 3.3%;
-    margin-top: 5%;
+    margin-top:%;
 }
 .text { 
-    
-    margin-left: 68%;
-    margin-right: 13%;
+   
+   margin-left: 3.3%;
+   margin-right: 60%;
 
   }
 .letters{
@@ -59,18 +59,15 @@ iframe {
     width:auto;
     margin-left:3.3%;
 }
-#i{
 
-}
-#l{
 
-}
-#r{
-
-}
 #t{
     width:auto;
     height:400px;
     float: right;
 
+}
+.iframe{
+    padding:10%;
+    float:right;
 }
