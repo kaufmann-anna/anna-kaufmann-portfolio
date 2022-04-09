@@ -1,0 +1,69 @@
+
+li{ 
+    list-style-type:none;
+    padding: 3px;
+    float:left;
+}
+.pfeil{
+    width: auto;
+    height: 45px;
+    margin-top: 1%;
+    margin-left:1%;
+  }
+img { 
+    margin-left:3.3%;
+    height: 40px;
+    width:auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+nav {margin-left: 3.3%;
+
+}
+
+video{
+    height: auto;
+    width:800px;
+    margin-left: 3.3%;
+}
+#video1{
+    margin-top: 10%;
+}
+#video2{
+    margin-top: 25%;
+}
+#video3{
+    margin-top: 25%;
+}
+p{ font-size: 1.5em; 
+    margin-left: 3.3%;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+.text-brief{
+    margin-top: 7%;
+    margin-left:64%;
+    margin-right: 5%;
+}
+.text-opener{
+    margin-left:64%;
+    margin-right: 5%;
+}
+.mode-text{
+    margin-top: 7%;
+    margin-left:64%;
+    margin-right: 5%;
+}
+.ü{
+    font-size: 2.5em;
+}

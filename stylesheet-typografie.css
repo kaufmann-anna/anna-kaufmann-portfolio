@@ -1,0 +1,76 @@
+.pfeil{
+    width: auto;
+    height: 45px;
+    margin-top: 1%;
+  }
+li{ 
+    list-style-type:none;
+    padding: 3px;
+    float:left;
+}
+.text-letters{
+    height:700px;
+    width:auto;
+    padding:5%;
+}
+img { 
+    height: 200px;
+    width:auto;
+
+}
+#ü-handwritting{
+    margin-top: 10%;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+nav {margin-left: 3.3%;
+}
+p{ font-size: 1.5em; 
+    margin-left: 3.3%;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+iframe { 
+    height: 200px;
+    width:auto;
+    margin-left: 3.3%;
+    margin-top: 5%;
+}
+.text { 
+    
+    margin-left: 68%;
+    margin-right: 13%;
+
+  }
+.letters{
+    margin-top: 20%;
+    height: 100px;
+    width:auto;
+    margin-left:3.3%;
+}
+#i{
+
+}
+#l{
+
+}
+#r{
+
+}
+#t{
+    width:auto;
+    height:400px;
+    float: right;
+
+}

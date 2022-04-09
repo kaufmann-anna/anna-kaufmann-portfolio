@@ -1,0 +1,125 @@
+.pfeil{
+    width: auto;
+    height: 45px;
+    margin-top: 1%;
+  }
+li{ 
+    list-style-type:none;
+    padding: 3px;
+    float:left;
+}
+img { 
+    height: 280px;
+    width:auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+nav {margin-left: 3.3%;
+
+}
+#b1{
+    margin-left: 20%;
+}
+#b2{
+    margin-left: 20%;
+    margin-top:26%;
+}
+#b3{
+    margin-left: 20%;
+    margin-top:26%;
+}
+#b4{
+    margin-left: 20%;
+    margin-top:48.5%;
+}
+#b5{
+    margin-left: 20%;
+    margin-top:28%;
+}
+#b6{
+    margin-left: 20%;
+    margin-top:71%;
+}
+
+
+
+#n1{
+    float:left;
+    margin-left:20%;
+}
+#n2{
+    float: left;
+    margin-top: -1%;
+    margin-left:20%
+}
+#n3{
+    float: left;
+    margin-top: -1%;;
+    margin-left:20%;
+}
+#n4{
+    float: left;
+    margin-top: -1%;;
+    margin-left:20%;;
+}
+p { 
+    font-size: 1.5em; 
+    color:black;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    
+}
+.überschrift{
+    margin-left: 3.3%;
+    margin-top: 6%;
+    font-size:2em;
+}
+#night{
+    margin-top: 25%;
+}
+#text-bild{
+    margin-left: 60%;
+    margin-right: 20%;
+    margin-top: 80%;
+}
+
+#nachts-text{
+    margin-top: 95%;
+    margin-left: 60%;
+    margin-right:5%;
+}
+#pflaster1{
+    float:left;
+    margin-left:15%;
+}
+#pflaster2{
+    float:left;
+    margin-left:15%;
+    margin-top: -1.5%;
+}
+#pflaster3{
+    float:left;
+    height: 300px;
+    width:auto;
+    margin-top: -1.5%;
+    margin-left:15%;
+}
+#ü-pflaster{
+    margin-top: 20%;
+    font-size: 2em;
+}
+.pflaster-text{
+    margin-top: 80%;
+    margin-left: 18%;
+    margin-right:55%;;
+}
