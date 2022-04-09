@@ -137,3 +137,106 @@ img{
     padding:10%;
   
 }
+    margin-left: 100%;;
+    height:300px;
+    width:auto;
+    margin-top: -155%;
+}
+.bild5{
+    margin-top:410%;
+    margin-left:-183%;
+    height:193px;
+    width:auto;
+}
+#bild8{
+    margin-top:50%;
+    width:auto;
+    height:200px;
+}
+
+.gross{
+height:400px;
+width: auto;
+margin-top:200%;
+}
+
+.bild{
+    height:200px;
+    width:auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+nav {margin-left: 3.3%;
+}
+p{ font-size: 1.5em; 
+    margin-left: 3.3%;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+#typosin{
+    margin-top: -0.5%;
+
+}
+#magazin{
+    margin-top: -0.5%;
+}
+#ü-magazin{
+    margin-top: 9%;
+}
+#ü-sin{
+    margin-top:10%;
+}
+#text-magazine{
+margin-top: -14%;
+margin-left:50%;
+margin-right:
+5%;}
+#text-sin{
+    margin-top: 26%;
+}
+
+img{
+    width: auto;
+    height: 600px;
+
+}
+#pdf1{
+   padding:10%;
+}
+#pdf2{
+    padding:10%;
+}
+#pdf3{
+    padding:10%;
+}
+#pdf4{
+    padding:10%;
+}
+#pdf5{
+    padding:10%;
+}
+#pdf6{
+    padding:10%;
+}
+#pdf7{
+    padding:10%;
+}
+#pdf8{
+    padding:10%;
+}
+#ü-pdf{
+    margin-top:60%;
+    font-size: 2.5em;
+    padding:10%;
+  
+}
