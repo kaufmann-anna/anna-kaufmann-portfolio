@@ -8,6 +8,15 @@ li{
     padding: 3px;
     float:left;
 }
+
+.container{
+    display: flex;
+    flex-direction: right;
+    margin-left: 20%;
+    padding-top: 0.5%;
+    gap: 0.5%;
+    margin-right: 30%;
+}
 img { 
     height: 280px;
     width:auto;
@@ -54,25 +63,7 @@ nav {margin-left: 3.3%;
 
 
 
-#n1{
-    float:left;
-    margin-left:20%;
-}
-#n2{
-    float: left;
-    margin-top: -1%;
-    margin-left:20%
-}
-#n3{
-    float: left;
-    margin-top: -1%;;
-    margin-left:20%;
-}
-#n4{
-    float: left;
-    margin-top: -1%;;
-    margin-left:20%;;
-}
+
 p { 
     font-size: 1.5em; 
     color:black;
@@ -88,16 +79,17 @@ p {
     margin-top: 25%;
 }
 #text-bild{
-    margin-left: 60%;
-    margin-right: 20%;
-    margin-top: 80%;
+    display: flex;
+    flex-direction: right;
+    margin-left: 20%;
+  
 }
 
 #nachts-text{
-    margin-top: 95%;
-    margin-left: 60%;
-    margin-right:5%;
+    display: flex;
+    flex-direction: right;
 }
+/*
 #pflaster1{
     float:left;
     margin-left:15%;
@@ -114,12 +106,9 @@ p {
     margin-top: -1.5%;
     margin-left:15%;
 }
+*/
+
 #ü-pflaster{
     margin-top: 20%;
     font-size: 2em;
-}
-.pflaster-text{
-    margin-top: 80%;
-    margin-left: 18%;
-    margin-right:55%;;
 }
