@@ -1,0 +1,106 @@
+#profilbild{
+   float: right;
+   width: auto;
+  height: 500px;
+}
+li{ 
+    list-style-type:none;
+    padding: 3px;
+    float:left;
+}
+.pfeil{
+  width: auto;
+  height: 45px;
+  margin-top: 1%;
+}
+
+img {
+    width: auto;
+    height: 400px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+nav {margin-left: 3.3%;
+}
+p{ font-size: 1.5em; 
+    margin-left: 3.3%;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+iframe { 
+    height: 200px;
+    width:auto;
+    margin-left: 3.3%;
+    margin-top: 1%;
+}
+.mock-up{
+   font-size: 5em;
+   
+}
+#ü-app{
+    margin-top: 10%;
+}
+#b-app2{
+   margin-top: 20%;
+}
+#b-app3{
+    margin-top: 20%;
+    padding-left: 35%;
+    
+ }
+
+ #b-app4{
+     margin-top:30%;
+    margin-left:14%;
+ }
+ #b-app5{
+    margin-top:30%;
+    margin-left:14%;
+ }
+ 
+.paragraph1 { 
+    margin-top: -0.1%;
+    margin-left: 38%;
+    margin-right: 32%;
+  }
+
+.paragraph2 { 
+    margin-top: 10%;
+    margin-left: 38%;
+    margin-right: 32%;
+
+  }
+  .paragraph3 { 
+    margin-top: 20%;
+    margin-left: 70%;
+    margin-right: 0%;
+
+  }
+  .paragraph4 { 
+    margin-top: 30%;
+    margin-left: 36%;
+    margin-right: 34%;
+
+  }
+  .paragraph4 { 
+    
+    margin-left: 36%;
+    margin-right: 34%;
+
+  }
+  .paragraph5 { 
+    margin-top:62%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+  }

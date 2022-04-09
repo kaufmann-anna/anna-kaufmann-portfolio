@@ -1,0 +1,51 @@
+.pfeil{
+    width: auto;
+    height: 45px;
+    margin-top: -38%;
+    float: left;
+   
+  }
+li{ 
+    list-style-type:none;
+    padding: 3px;
+    float:left;
+}
+
+img { 
+    height: 500px;
+    width:auto;
+margin-left:3.3%;
+float:right;
+margin-top:-28%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+
+p{ font-size: 1.5em; 
+    margin-left: 3.3%;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+.frage{
+   margin-top: 40%;
+    margin-left:50%;
+
+}
+.antwort{
+    margin-top: 5%;
+margin-left:3.3%;
+margin-right:50%;
+font-size: 3.5em;
+}
+
