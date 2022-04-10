@@ -2,7 +2,8 @@
 li{ 
     list-style-type:none;
     padding: 3px;
-    float:left;
+    
+ 
 }
 .pfeil{
     width: auto;
@@ -12,7 +13,7 @@ li{
   }
 img { 
     margin-left:3.3%;
-    height: 40px;
+    height: 90px;
     width:auto;
 }
 a{
@@ -34,7 +35,7 @@ nav {margin-left: 3.3%;
 
 video{
     height: auto;
-    width:800px;
+    width:700px;
     margin-left: 3.3%;
 }
 #video1{
@@ -66,4 +67,13 @@ p{ font-size: 1.5em;
 }
 .ü{
     font-size: 2.5em;
+}
+.container{
+    display: flex;
+    flex-direction: right;
+    margin-left: 3.3%;
+    padding-top: 0.5%;
+    gap: 0.1%;
+   margin-top: 2%;
+    margin-right:60%;
 }
