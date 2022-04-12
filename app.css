@@ -63,9 +63,12 @@ iframe {
      margin-top:30%;
     margin-left:14%;
  }
- #b-app5{
-    margin-top:30%;
-    margin-left:14%;
+ .b-app5{
+   display: flex;
+   flex-direction: right;
+   gap: 0.1%;
+   margin-top:30%;
+  margin-left:14%;
  }
  
 .paragraph1 { 
@@ -99,8 +102,8 @@ iframe {
 
   }
   .paragraph5 { 
-    margin-top:62%;
-    margin-left: 15%;
-    margin-right: 15%;
-
+ display: flex;
+ flex-direction: right;
+ margin-left: 13%;
+ margin-right: 56%;
   }
