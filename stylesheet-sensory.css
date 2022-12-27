@@ -1,0 +1,114 @@
+.pfeil{
+    width: auto;
+    height: 45px;
+    margin-top: 1%;
+  }
+li{ 
+    list-style-type:none;
+    padding: 3px;
+    float:left;
+}
+
+.container{
+    display: flex;
+    flex-direction: right;
+    margin-left: 20%;
+    padding-top: 2%;
+    gap: 5%;
+    margin-right: 30%;
+}
+img { 
+    height: 300px;
+    width:auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+nav {margin-left: 3.3%;
+
+}
+#b1{
+    margin-left: 20%;
+}
+#b2{
+    margin-left: 20%;
+    margin-top:26%;
+}
+#b3{
+    margin-left: 20%;
+    margin-top:26%;
+}
+#b4{
+    margin-left: 20%;
+    margin-top:48.5%;
+}
+#b5{
+    margin-left: 20%;
+    margin-top:28%;
+}
+#b6{
+    margin-left: 20%;
+    margin-top:71%;
+}
+
+
+
+
+p { 
+    font-size: 1.5em; 
+    color:black;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    
+}
+.überschrift{
+    margin-left: 3.3%;
+    margin-top: 6%;
+    font-size:2em;
+}
+#night{
+    margin-top: 25%;
+}
+#text-bild{
+    display: flex;
+    flex-direction: right;
+    margin-left: 20%;
+  
+}
+
+#nachts-text{
+    display: flex;
+    flex-direction: right;
+}
+/*
+#pflaster1{
+    float:left;
+    margin-left:15%;
+}
+#pflaster2{
+    float:left;
+    margin-left:15%;
+    margin-top: -1.5%;
+}
+#pflaster3{
+    float:left;
+    height: 300px;
+    width:auto;
+    margin-top: -1.5%;
+    margin-left:15%;
+}
+*/
+
+#ü-pflaster{
+    margin-top: 10%;
+    font-size: 2em;
+}

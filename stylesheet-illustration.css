@@ -4,21 +4,23 @@
     height: 45px;
     margin-top: 1%;
   }
-li{ 
-    list-style-type:none;
-    padding: 3px;
-    float:left;
-}
-.plakatGross{
-    height: 700px;
+
+  .text{
+   flex-direction: column;
+   margin-right: 5%;
+   margin-left: -5%;
+  }
+  .container{
+    display: flex;
+    flex-direction: right;
+    margin-left: 20%;
+    padding-top: 0.5%;
+    gap: 10%;
+    
+    height: 500px;
     width:auto;
-    padding-right:20%;
 }
-.PlakatGross2{
-    height: 700px;
-    width:auto;
-    padding-right:10%;
-}
+
 a{
     text-decoration: none;
     color: black;
@@ -38,13 +40,7 @@ p{ font-size: 1.5em;
     margin-left: 3.3%;
     font-family: "Helvetica Neue", Helvetica, Arial;
 }
-#ü-vodka{
-    margin-top:10%;
- 
-}
-#vodka-text{
-    padding-top: 60%;
-  margin-right:50%;
-    font-size: 3em;
 
+#laerm{
+    margin-top: 15%;
 }

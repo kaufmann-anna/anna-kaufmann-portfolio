@@ -33,27 +33,46 @@ nav {margin-left: 3.3%;
 
 }
 
+#archana{
+    margin-top: 5%;
+margin-left: 20%;
+
+}
+#transgender{
+    margin-top:20%;
+    margin-left: 20%;
+}
+
+#Janardhan{
+    margin-left:20%;
+    margin-top: 20%;
+}
+
 video{
+
     height: auto;
-    width:700px;
-    margin-left: 3.3%;
+    width:560px;
+   
 }
 #video1{
-    margin-top: 10%;
+    margin-left: 20%;
+    margin-top: 20%;
 }
 #video2{
-    margin-top: 25%;
+    margin-left:20%;
+    margin-top: 20%;
 }
 #video3{
-    margin-top: 25%;
+    margin-left:20%;
+    margin-top: 20%;
 }
 p{ font-size: 1.5em; 
     margin-left: 3.3%;
     font-family: "Helvetica Neue", Helvetica, Arial;
 }
-.text-brief{
-    margin-top: 7%;
-    margin-left:64%;
+.text{
+    margin-top: 3%;
+    margin-left:50%;
     margin-right: 5%;
 }
 .text-opener{
