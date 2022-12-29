@@ -1,0 +1,86 @@
+.pfeil{
+    width: auto;
+    height: 45px;
+    margin-top: 1%;
+  }
+li{ 
+    list-style-type:none;
+    padding: 3px;
+    float:left;
+}
+.iframe{
+    padding:10%;
+    float:right;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    margin-left: 20%;
+    gap: 10%;
+    margin-right: 30%;
+}
+.container2{
+    display: flex;
+    flex-direction: left;
+    flex-wrap:wrap;
+    margin-left: 20%;
+    gap: 10%;
+    margin-right: 30%;
+}
+.bild{
+    margin-left: 70%;
+}
+img { 
+    height: auto;
+    width:800px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em; 
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    cursor: pointer;
+
+}
+/*Wenn über den Link gehoverd wird, soll das Wort sich verändern*/
+a:hover{
+    color:red;
+}
+
+nav {margin-left: 3.3%;
+
+}
+
+
+.ueberschrift {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-size: 5em;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left:3.3%;
+   
+    
+
+}
+.text2{
+    margin-left: 3.3%;
+    margin-bottom: 15%;
+    font-size: 2em;
+}
+p { 
+    
+    font-size: 1.5em; 
+    color:black;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    
+}
+
+.text{
+    margin-left: -10%;
+    
+ margin-bottom: 10%;
+ margin-right: 70%;
+ margin-top: -50%;
+}

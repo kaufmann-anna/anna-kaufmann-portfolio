@@ -12,6 +12,7 @@
 body {
     background-image: url(Augen.mp4);
     background-size: 10%;
+
     
 }
 .pfeil{
@@ -99,6 +100,13 @@ a:hover{
     font-family: "Helvetica Neue", Helvetica, Arial;
     margin-top:10%;
     margin-left: 20%;
+    
+}
+#editorial2{
+    color:black;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    margin-top:%;
+    margin-left: 10%;
     
 }
 #portfolio-ü{
